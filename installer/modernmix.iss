@@ -2,7 +2,7 @@
 ; SEE THE DOCUMENTATION FOR DETAILS ON CREATING INNO SETUP SCRIPT FILES!
 
 #define MyAppName "ModernMix-Übersetzung"
-#define MyAppVersion "1.12"
+#define MyAppVersion "1.14"
 #define MyAppPublisher "Stardock, Inc."
 #define MyAppURL "http://www.stardock.com/products/modernmix/"
 #define MyAppExeName "modernmix-locale-de.exe"
@@ -22,18 +22,18 @@ AppUpdatesURL={#MyAppURL}
 DefaultDirName={pf32}\Stardock\ModernMix
 DefaultGroupName={#MyAppName}
 DisableProgramGroupPage=yes
-OutputBaseFilename=modernmix-locale-de-1.12-setup
+OutputBaseFilename=modernmix-locale-de-1.14-setup
 SetupIconFile=modernmix.ico
 Compression=lzma
 SolidCompression=yes
 ShowLanguageDialog=auto
 UninstallDisplayIcon={app}\MMixConfig.exe
-VersionInfoVersion=1.12
+VersionInfoVersion=1.14
 VersionInfoCompany=Stardock, Inc.
 VersionInfoCopyright=© 2014 Stardock, Inc.
 VersionInfoProductName=ModernMix
-VersionInfoProductVersion=1.12
-VersionInfoProductTextVersion=1.12
+VersionInfoProductVersion=1.14
+VersionInfoProductTextVersion=1.14
 DisableReadyMemo=True
 DisableReadyPage=True
 AppCopyright=© 2014 Stardock, Inc.
